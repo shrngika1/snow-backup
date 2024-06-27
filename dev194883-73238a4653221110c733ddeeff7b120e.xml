@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2024-06-27 11:44:00"><sys_remote_update_set action="INSERT_OR_UPDATE"><application display_value="Global">global</application><application_name>Global</application_name><application_scope>global</application_scope><application_version/><collisions/><commit_date/><deleted/><description/><inserted/><name/><origin_sys_id/><parent/><release_date/><remote_base_update_set/><remote_parent_id/><remote_sys_id>73238a4653221110c733ddeeff7b120e</remote_sys_id><state>loaded</state><summary/><sys_class_name>sys_remote_update_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>3cb82665474702103761bb30116d435c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><update_set/><update_source/><updated/></sys_remote_update_set><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_ux_page_registry_eba4b22253725910c733ddeeff7b1228</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>efa4b22253725910c733ddeeff7b1225</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>formbuilder</path><root_macroponent display_value="ACE Unified Nav App Shell">7045b717532d411033cdddeeff7b1275</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:21:06</sys_created_on><sys_id>eba4b22253725910c733ddeeff7b1228</sys_id><sys_mod_count>1</sys_mod_count><sys_name>form-builder</sys_name><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_ux_page_registry_eba4b22253725910c733ddeeff7b1228</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 16:21:47</sys_updated_on><title>form-builder</title></sys_ux_page_registry></record_update>]]></payload><payload_hash>1065391689</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>38b82665474702103761bb30116d435e</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429b2fdde0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name>form-builder</target_name><type>UX Application</type><update_domain>global</update_domain><update_guid>e1d4f2226a725910b28deba2e5c967a5</update_guid><update_guid_history>e1d4f2226a725910b28deba2e5c967a5:1065391689,aba4b222bd725910506064d0f4f7312a:-2039473602</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_ux_app_config_efa4b22253725910c733ddeeff7b1225</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><encode_query_string>false</encode_query_string><icon/><landing_path>home</landing_path><name>form-builder</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:21:06</sys_created_on><sys_id>efa4b22253725910c733ddeeff7b1225</sys_id><sys_mod_count>0</sys_mod_count><sys_name>form-builder</sys_name><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_ux_app_config_efa4b22253725910c733ddeeff7b1225</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 16:21:06</sys_updated_on></sys_ux_app_config><sys_translated_text action="delete_multiple" query="documentkey=efa4b22253725910c733ddeeff7b1225"/></record_update>]]></payload><payload_hash>1085305858</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>3cb82665474702103761bb30116d435d</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429b25f6a0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name>form-builder</target_name><type>UX App Configuration</type><update_domain>global</update_domain><update_guid>6fa4b222637259108012774daa400c27</update_guid><update_guid_history>6fa4b222637259108012774daa400c27:1085305858</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_ux_macroponent_9639722653725910c733ddeeff7b122a</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><category>page</category><component_dependencies/><composition>[ {
+  "elementId" : "styleable_container_1",
+  "elementLabel" : "Styleable container 1",
+  "propertyValues" : {
+    "styles" : {
+      "type" : "JSON_LITERAL",
+      "value" : null
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "88f68df57d33fe145802f64c5cae3fb1",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "content_tree_1",
+      "elementLabel" : "Content tree 1",
+      "propertyValues" : {
+        "select" : {
+          "type" : "JSON_LITERAL",
+          "value" : "single"
+        },
+        "expandedItems" : {
+          "type" : "JSON_LITERAL",
+          "value" : [ [ "p1" ] ]
+        },
+        "configAria" : {
+          "type" : "MAP_CONTAINER",
+          "container" : { }
+        },
+        "searchTerm" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        },
+        "overflow" : {
+          "type" : "JSON_LITERAL",
+          "value" : "scroll"
+        },
+        "size" : {
+          "type" : "JSON_LITERAL",
+          "value" : "md"
+        },
+        "highlightSelectedParent" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "triggerIcon" : {
+          "type" : "JSON_LITERAL",
+          "value" : "chevron"
+        },
+        "loadingItems" : {
+          "type" : "LIST_CONTAINER",
+          "container" : [ ]
+        },
+        "showDividers" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "items" : {
+          "type" : "LIST_CONTAINER",
+          "container" : [ {
+            "type" : "MAP_CONTAINER",
+            "container" : {
+              "id" : {
+                "type" : "JSON_LITERAL",
+                "value" : "p1"
+              },
+              "label" : {
+                "type" : "TRANSLATION_LITERAL",
+                "value" : {
+                  "code" : null,
+                  "message" : "View",
+                  "comment" : ""
+                }
+              },
+              "children" : {
+                "type" : "JSON_LITERAL",
+                "value" : [ {
+                  "id" : "c1",
+                  "layout" : "123",
+                  "label" : "Section1"
+                }, {
+                  "id" : "c2",
+                  "label" : "Section2"
+                }, {
+                  "id" : "c3",
+                  "label" : "Section3"
+                } ]
+              }
+            }
+          } ]
+        },
+        "showActionsOnHover" : {
+          "type" : "JSON_LITERAL",
+          "value" : false
+        },
+        "selectedItems" : {
+          "type" : "JSON_LITERAL",
+          "value" : [ ]
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : null,
+      "definition" : {
+        "id" : "71baad1870878aa2e853a2d9a3373f84",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null,
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : { }
+    }, {
+      "elementId" : "styleable_container_2",
+      "elementLabel" : "Styleable container 2",
+      "propertyValues" : {
+        "styles" : {
+          "type" : "JSON_LITERAL",
+          "value" : null
+        }
+      },
+      "eventMappings" : [ ],
+      "slot" : null,
+      "definition" : {
+        "id" : "88f68df57d33fe145802f64c5cae3fb1",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : {
+        "composition" : [ {
+          "elementId" : "ace_form_builder_1",
+          "elementLabel" : "ACE Form Builder 1",
+          "propertyValues" : {
+            "recordId" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            },
+            "contentTree" : {
+              "type" : "CLIENT_TRANSFORM_SCRIPT",
+              "script" : {
+                "apiVersion" : "2.0.0",
+                "controllerElementId" : null,
+                "inlineScript" : null,
+                "scriptSysId" : "528107aa53725910c733ddeeff7b124f",
+                "target" : null
+              }
+            },
+            "table" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : null,
+          "definition" : {
+            "id" : "bf04e61895052138c820f8eeca85bf99",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : null,
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : { }
+        }, {
+          "elementId" : "styleable_container_6",
+          "elementLabel" : "Styleable container 6",
+          "propertyValues" : {
+            "styles" : {
+              "type" : "JSON_LITERAL",
+              "value" : null
+            }
+          },
+          "eventMappings" : [ ],
+          "slot" : null,
+          "definition" : {
+            "id" : "88f68df57d33fe145802f64c5cae3fb1",
+            "type" : "MACROPONENT"
+          },
+          "overrides" : {
+            "composition" : [ {
+              "elementId" : "styleable_container_4",
+              "elementLabel" : "Styleable container 4",
+              "propertyValues" : {
+                "styles" : {
+                  "type" : "JSON_LITERAL",
+                  "value" : null
+                }
+              },
+              "eventMappings" : [ ],
+              "slot" : "",
+              "definition" : {
+                "id" : "88f68df57d33fe145802f64c5cae3fb1",
+                "type" : "MACROPONENT"
+              },
+              "overrides" : {
+                "composition" : [ {
+                  "elementId" : "styleable_container_5",
+                  "elementLabel" : "Styleable container 5",
+                  "propertyValues" : {
+                    "styles" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : null,
+                  "definition" : {
+                    "id" : "88f68df57d33fe145802f64c5cae3fb1",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : {
+                    "composition" : [ {
+                      "elementId" : "button_1",
+                      "elementLabel" : "Button 1",
+                      "propertyValues" : {
+                        "size" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "md"
+                        },
+                        "variant" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "secondary"
+                        },
+                        "icon" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        },
+                        "disabled" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "label" : {
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "Preview",
+                            "comment" : ""
+                          }
+                        },
+                        "tooltipContent" : {
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "Enter a label",
+                            "comment" : ""
+                          }
+                        },
+                        "configAria" : {
+                          "type" : "MAP_CONTAINER",
+                          "container" : { }
+                        }
+                      },
+                      "eventMappings" : [ ],
+                      "slot" : "",
+                      "definition" : {
+                        "id" : "d37ce8abca89d02905fed903c8e34d8e",
+                        "type" : "MACROPONENT"
+                      },
+                      "overrides" : null,
+                      "isHidden" : {
+                        "type" : "JSON_LITERAL",
+                        "value" : null
+                      },
+                      "isHero" : false,
+                      "extensionPoints" : [ ],
+                      "isNonDestructive" : false,
+                      "items" : [ ],
+                      "styles" : { }
+                    }, {
+                      "elementId" : "button_2",
+                      "elementLabel" : "Button 2",
+                      "propertyValues" : {
+                        "size" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "md"
+                        },
+                        "variant" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "secondary"
+                        },
+                        "icon" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        },
+                        "disabled" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "label" : {
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "Save",
+                            "comment" : ""
+                          }
+                        },
+                        "tooltipContent" : {
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "Enter a label",
+                            "comment" : ""
+                          }
+                        },
+                        "configAria" : {
+                          "type" : "MAP_CONTAINER",
+                          "container" : { }
+                        }
+                      },
+                      "eventMappings" : [ ],
+                      "slot" : "",
+                      "definition" : {
+                        "id" : "d37ce8abca89d02905fed903c8e34d8e",
+                        "type" : "MACROPONENT"
+                      },
+                      "overrides" : null,
+                      "isHidden" : {
+                        "type" : "JSON_LITERAL",
+                        "value" : null
+                      },
+                      "isHero" : false,
+                      "extensionPoints" : [ ],
+                      "isNonDestructive" : false,
+                      "items" : [ ],
+                      "styles" : { }
+                    } ],
+                    "layout" : {
+                      "default" : {
+                        "children" : null,
+                        "isInline" : null,
+                        "items" : [{"element_id":"button_1","styles":{}},{"element_id":"button_2","styles":{}}],
+                        "root" : null,
+                        "rules" : null,
+                        "styles" : {"flex-direction":"row","gap":"var(--now-static-space--xs)"},
+                        "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                        "type" : "flex"
+                      },
+                      "version" : "3.0.0"
+                    }
+                  },
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : null
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                }, {
+                  "elementId" : "styleable_container_3",
+                  "elementLabel" : "Styleable container 3",
+                  "propertyValues" : {
+                    "styles" : {
+                      "type" : "JSON_LITERAL",
+                      "value" : null
+                    }
+                  },
+                  "eventMappings" : [ ],
+                  "slot" : "",
+                  "definition" : {
+                    "id" : "88f68df57d33fe145802f64c5cae3fb1",
+                    "type" : "MACROPONENT"
+                  },
+                  "overrides" : {
+                    "composition" : [ {
+                      "elementId" : "dropdown_1",
+                      "elementLabel" : "Dropdown 1",
+                      "propertyValues" : {
+                        "select" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "single"
+                        },
+                        "showPadding" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "icon" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        },
+                        "opened" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "tooltipContent" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        },
+                        "panelFitProps" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : { }
+                        },
+                        "configAria" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : null
+                        },
+                        "hideCaret" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "search" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "none"
+                        },
+                        "size" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "md"
+                        },
+                        "variant" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : "secondary"
+                        },
+                        "disabled" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "placeholder" : {
+                          "type" : "TRANSLATION_LITERAL",
+                          "value" : {
+                            "code" : null,
+                            "message" : "Choose a Table",
+                            "comment" : ""
+                          }
+                        },
+                        "bare" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        },
+                        "items" : {
+                          "type" : "LIST_CONTAINER",
+                          "container" : [ {
+                            "type" : "MAP_CONTAINER",
+                            "container" : {
+                              "id" : {
+                                "type" : "JSON_LITERAL",
+                                "value" : "l1"
+                              },
+                              "label" : {
+                                "type" : "TRANSLATION_LITERAL",
+                                "value" : {
+                                  "code" : null,
+                                  "message" : "List item 1",
+                                  "comment" : ""
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : "MAP_CONTAINER",
+                            "container" : {
+                              "id" : {
+                                "type" : "JSON_LITERAL",
+                                "value" : "l2"
+                              },
+                              "label" : {
+                                "type" : "TRANSLATION_LITERAL",
+                                "value" : {
+                                  "code" : null,
+                                  "message" : "List item 2",
+                                  "comment" : ""
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : "MAP_CONTAINER",
+                            "container" : {
+                              "id" : {
+                                "type" : "JSON_LITERAL",
+                                "value" : "l3"
+                              },
+                              "label" : {
+                                "type" : "TRANSLATION_LITERAL",
+                                "value" : {
+                                  "code" : null,
+                                  "message" : "List item 3",
+                                  "comment" : ""
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : "MAP_CONTAINER",
+                            "container" : {
+                              "id" : {
+                                "type" : "JSON_LITERAL",
+                                "value" : "l4"
+                              },
+                              "label" : {
+                                "type" : "TRANSLATION_LITERAL",
+                                "value" : {
+                                  "code" : null,
+                                  "message" : "List item 4",
+                                  "comment" : ""
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : "MAP_CONTAINER",
+                            "container" : {
+                              "id" : {
+                                "type" : "JSON_LITERAL",
+                                "value" : "l5"
+                              },
+                              "label" : {
+                                "type" : "TRANSLATION_LITERAL",
+                                "value" : {
+                                  "code" : null,
+                                  "message" : "List item 5",
+                                  "comment" : ""
+                                }
+                              }
+                            }
+                          }, {
+                            "type" : "MAP_CONTAINER",
+                            "container" : {
+                              "id" : {
+                                "type" : "JSON_LITERAL",
+                                "value" : "l6"
+                              },
+                              "label" : {
+                                "type" : "TRANSLATION_LITERAL",
+                                "value" : {
+                                  "code" : null,
+                                  "message" : "List item 6",
+                                  "comment" : ""
+                                }
+                              }
+                            }
+                          } ]
+                        },
+                        "selectedItems" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : [ ]
+                        },
+                        "hideLabel" : {
+                          "type" : "JSON_LITERAL",
+                          "value" : false
+                        }
+                      },
+                      "eventMappings" : [ ],
+                      "slot" : null,
+                      "definition" : {
+                        "id" : "22c67d9a1e515fef66442e1469bed3a2",
+                        "type" : "MACROPONENT"
+                      },
+                      "overrides" : null,
+                      "isHidden" : {
+                        "type" : "JSON_LITERAL",
+                        "value" : null
+                      },
+                      "isHero" : false,
+                      "extensionPoints" : [ ],
+                      "isNonDestructive" : false,
+                      "items" : [ ],
+                      "styles" : { }
+                    } ],
+                    "layout" : {
+                      "default" : {
+                        "children" : null,
+                        "isInline" : null,
+                        "items" : [{"element_id":"dropdown_1","styles":{}}],
+                        "root" : null,
+                        "rules" : null,
+                        "styles" : {"flex-direction":"row","justify-content":"flex-start"},
+                        "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                        "type" : "flex"
+                      },
+                      "version" : "3.0.0"
+                    }
+                  },
+                  "isHidden" : {
+                    "type" : "JSON_LITERAL",
+                    "value" : null
+                  },
+                  "isHero" : false,
+                  "extensionPoints" : [ ],
+                  "isNonDestructive" : false,
+                  "items" : [ ],
+                  "styles" : { }
+                } ],
+                "layout" : {
+                  "default" : {
+                    "children" : null,
+                    "isInline" : null,
+                    "items" : [{"element_id":"styleable_container_3","styles":{}},{"element_id":"styleable_container_5","styles":{}}],
+                    "root" : null,
+                    "rules" : null,
+                    "styles" : {"flex-direction":"row","display":"flex","grid-template-columns":"1fr 1fr","grid-template-rows":"1fr 1fr","grid-auto-flow":"row","justify-content":"flex-end","gap":"var(--now-static-space--xs)"},
+                    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                    "type" : "flex"
+                  },
+                  "version" : "3.0.0"
+                }
+              },
+              "isHidden" : {
+                "type" : "JSON_LITERAL",
+                "value" : null
+              },
+              "isHero" : false,
+              "extensionPoints" : [ ],
+              "isNonDestructive" : false,
+              "items" : [ ],
+              "styles" : { }
+            } ],
+            "layout" : {
+              "default" : {
+                "children" : null,
+                "isInline" : null,
+                "items" : [{"element_id":"styleable_container_4","styles":{}}],
+                "root" : null,
+                "rules" : null,
+                "styles" : {"flex-direction":"column"},
+                "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+                "type" : "flex"
+              },
+              "version" : "3.0.0"
+            }
+          },
+          "isHidden" : {
+            "type" : "JSON_LITERAL",
+            "value" : null
+          },
+          "isHero" : false,
+          "extensionPoints" : [ ],
+          "isNonDestructive" : false,
+          "items" : [ ],
+          "styles" : { }
+        } ],
+        "layout" : {
+          "default" : {
+            "children" : null,
+            "isInline" : null,
+            "items" : [{"element_id":"styleable_container_6","styles":{}},{"element_id":"ace_form_builder_1","styles":{"min-height":"1000px"}}],
+            "root" : null,
+            "rules" : null,
+            "styles" : {"flex-direction":"column"},
+            "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+            "type" : "flex"
+          },
+          "version" : "3.0.0"
+        }
+      },
+      "isHidden" : {
+        "type" : "JSON_LITERAL",
+        "value" : null
+      },
+      "isHero" : false,
+      "extensionPoints" : [ ],
+      "isNonDestructive" : false,
+      "items" : [ ],
+      "styles" : {
+        "width" : "100%",
+        "min-height" : "800px"
+      }
+    } ],
+    "layout" : {
+      "default" : {
+        "children" : null,
+        "isInline" : null,
+        "items" : [{"element_id":"content_tree_1","styles":{"width":"25%","min-height":"1000px","border-right":"1px solid rgb(182, 182, 182)"}},{"element_id":"styleable_container_2","styles":{}}],
+        "root" : null,
+        "rules" : null,
+        "styles" : {"flex-direction":"row","display":"flex","grid-template-columns":"1fr 1fr","grid-template-rows":"1fr 1fr"},
+        "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+        "type" : "flex"
+      },
+      "version" : "3.0.0"
+    }
+  },
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : null
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : {
+    "max-height" : "800px"
+  }
+} ]</composition><da_relay_models/><data>[ ]</data><description/><dispatched_events/><ext_controller_dep/><extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends><extension_point/><handled_events/><interactions/><interfaces/><internal_event_mappings>{ }</internal_event_mappings><layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"element_id":"styleable_container_1","styles":{}}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"flex-direction":"column"},
+    "templateId" : "5832fd4d53c31010e6bcddeeff7b12db",
+    "type" : "flex"
+  },
+  "version" : "3.0.0"
+}</layout><macroponent_dependencies/><name>Home Default</name><output_prop_mapping/><props>[ ]</props><required_translations>[ {
+  "message" : "Choose a Table",
+  "comment" : ""
+}, {
+  "message" : "Enter a label",
+  "comment" : ""
+}, {
+  "message" : "List item 1",
+  "comment" : ""
+}, {
+  "message" : "List item 2",
+  "comment" : ""
+}, {
+  "message" : "List item 3",
+  "comment" : ""
+}, {
+  "message" : "List item 4",
+  "comment" : ""
+}, {
+  "message" : "List item 5",
+  "comment" : ""
+}, {
+  "message" : "List item 6",
+  "comment" : ""
+}, {
+  "message" : "Preview",
+  "comment" : ""
+}, {
+  "message" : "Save",
+  "comment" : ""
+}, {
+  "message" : "Section1",
+  "comment" : ""
+}, {
+  "message" : "Section2",
+  "comment" : ""
+}, {
+  "message" : "Section3",
+  "comment" : ""
+}, {
+  "message" : "View",
+  "comment" : ""
+} ]</required_translations><root_component/><root_component_config>{ }</root_component_config><root_component_definition/><schema_version>1.0.0</schema_version><state_properties>[ ]</state_properties><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:40:57</sys_created_on><sys_id>9639722653725910c733ddeeff7b122a</sys_id><sys_mod_count>16</sys_mod_count><sys_name>Home Default</sys_name><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_ux_macroponent_9639722653725910c733ddeeff7b122a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 17:17:16</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=9639722653725910c733ddeeff7b122a"/></record_update>]]></payload><payload_hash>1287436978</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>74b82665474702103761bb30116d435e</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429e5cc890000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name>Home Default</target_name><type>UX Macroponent Definition</type><update_domain>global</update_domain><update_guid>5e810faa577259106eb7cbbfab2361f1</update_guid><update_guid_history>5e810faa577259106eb7cbbfab2361f1:1287436978,52810faa5e72591028aa3c5cd85f1def:1287436978,e37003aa07725910a749a69d8529a29a:1913286291,c4cff66a7b7259108f73d92fab693e10:2121442988,d4bfb66ad6725910c9b89a42cbbb5f59:879095380,9eaf766a1d72591017f235e01ea332e1:1128125837,dc8ff26a07725910de781228456e5da7:-154896579,b84f326a177259108b2352052e8f2442:218502074,43feba2af4725910bad93bdee4b3c93b:-1459244212,bb5ab266fc725910380d0e18a0f7f92f:1869715436,313a32662a72591045d78b0555cb700d:-2137121704,4d2afe26967259103eb158debecc6d2b:-290527417,faa93a264772591032c38c2f62e32fb4:-2145621908,d979362601725910d2a2132b8d7d9c71:-2051803799,3b59b22682725910695c80000e83578f:-1947044570,c649b22610725910e56171e7a741640d:-817420196,ba3972269272591067a659c8fa987022:-1355244704,123972265b7259105cbfd866a05c942c:-1792136990</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_uib_screen_test_values_9a39722653725910c733ddeeff7b122f</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{ }</macroponent_config><screen display_value="Home Default">5e39722653725910c733ddeeff7b122c</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:40:57</sys_created_on><sys_id>9a39722653725910c733ddeeff7b122f</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_uib_screen_test_values_9a39722653725910c733ddeeff7b122f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 17:08:23</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload><payload_hash>1225053941</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>78b82665474702103761bb30116d435d</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429dda8180000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name/><type>UIB Screen Test Values</type><update_domain>global</update_domain><update_guid>408ff26a90725910e4b15a8ac3f4e39d</update_guid><update_guid_history>408ff26a90725910e4b15a8ac3f4e39d:1225053941,fafeba2a5d725910b1a4fdbf6c51c033:-1582136848,ea39722660725910605a588b9176b537:-1552931653,9e397226fb725910cdc70f137bb26430:-1582136848</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_ux_client_script_528107aa53725910c733ddeeff7b124f</name><payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Home Default"&gt;9639722653725910c733ddeeff7b122a&lt;/macroponent&gt;&lt;name&gt;ace_form_builder_1/contentTree&lt;/name&gt;&lt;preset/&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+        "block_id": "10ac9ad8ac3f10110fc869bc8a840dd20",
+        "id": "10ac9ad8ac3f10110fc869bc8a840dd20",
+        "parent_block_id": "",
+        "active": true,
+        "name": "View",
+        "label": "",
+        "title": "",
+        "subtitle": "",
+        "order": "100",
+        "props_details": {
+            "component_name": "now-uxf-page-container",
+            "component_properties": {
+                "label": "Test1233",
+                "canCollapse": true,
+                "collapsed": false
+            }
+        },
+        "type": {
+            "group": "container",
+            "name": "Generic",
+            "id": "439e03fbeb611430d05213b347522802",
+            "route": "generic"
+        },
+        "children": [{
+                "block_id": "20ac9ad8ac3f10110fc869bc8a840dd20",
+                "id": "20ac9ad8ac3f10110fc869bc8a840dd20",
+                "parent_block_id": "",
+                "active": true,
+                "name": "1",
+                "label": "Section1",
+                "title": "Section1",
+                "subtitle": "Section subtitle1",
+                "order": "100",
+                "props_details": {
+                    "component_name": "sn-styleable-container",
+                    "component_properties": {
+                        "styles": {
+                            "display": "grid",
+                            "grid-template-columns": "1fr",
+                            "grid-template-rows": "1fr",                        
+                            "grid-auto-columns": "1fr",
+                            "justify-content": "space-around",
+                            "gap": "var(--now-static-space--md)",
+                            "padding": "var(--now-static-space--lg)",
+                            "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                            "background-color": "#fafdff"
+                        }
+                    }
+                },
+                "type": {
+                    "group": "container",
+                    "name": "Generic",
+                    "id": "439e03fbeb611430d05213b347522802",
+                    "route": "generic"
+                },
+                "children": [{
+                    "block_id": "30ac9ad8ac3f10110fc869bc8a840dd20",
+                    "id": "30ac9ad8ac3f10110fc869bc8a840dd20",
+                    "parent_block_id": "",
+                    "active": true,
+                    "name": "2",
+                    "label": "Row1",
+                    "title": "Row1",
+                    "subtitle": "Row subtitle1",
+                    "order": "100",
+                    "props_details": {
+                        "component_name": "sn-styleable-container",
+                        "component_properties": {
+                            "styles": {
+                                "display": "grid",
+                                "grid-template-columns": "1fr 1fr",
+                                "grid-template-rows": "1fr",                                
+                                "grid-auto-columns": "1fr",
+                                "justify-content": "space-around",
+                                "gap": "var(--now-static-space--md)",
+                                "padding": "var(--now-static-space--lg)",
+                                "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                                "background-color": "#f3f2f8"
+                            }
+                        }
+                    },
+                    "type": {
+                        "group": "container",
+                        "name": "Generic",
+                        "id": "439e03fbeb611430d05213b347522802",
+                        "route": "generic"
+                    },
+                    "children": [{
+                            "block_id": "40ac9ad8ac3f10110fc869bc8a840dd20",
+                            "id": "4ac9ad8ac3f10110fc869bc8a840dd20",
+                            "parent_block_id": "",
+                            "active": true,
+                            "name": "3",
+                            "label": "Column1",
+                            "title": "Column1",
+                            "subtitle": "Col subtitle1",
+                            "order": "100",
+                            "props_details": {
+                                "component_name": "sn-styleable-container",
+                                "component_properties": {
+                                    "styles": {
+                                        "display": "grid",
+                                        "grid-template-columns": "1fr",
+                                        "grid-template-rows": "1fr",                                        
+                                        "grid-auto-columns": "1fr",
+                                        "justify-content": "space-around",
+                                        "gap": "var(--now-static-space--md)",
+                                        "padding": "var(--now-static-space--lg)",
+                                        "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                                        "background-color": "white"
+                                    }
+                                }
+                            },
+                            "type": {
+                                "group": "container",
+                                "name": "Generic",
+                                "id": "439e03fbeb611430d05213b347522802",
+                                "route": "generic"
+                            },
+                            "children": [{
+                                    "block_id": "50ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "50ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 4"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                },
+                                {
+                                    "block_id": "60ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "60ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 3"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "block_id": "70ac9ad8ac3f10110fc869bc8a840dd20",
+                            "id": "70ac9ad8ac3f10110fc869bc8a840dd20",
+                            "parent_block_id": "",
+                            "active": true,
+                            "name": "3",
+                            "label": "Column2",
+                            "title": "Column2",
+                            "subtitle": "Col subtitle2",
+                            "order": "100",
+                            "props_details": {
+                                "component_name": "sn-styleable-container",
+                                "component_properties": {
+                                    "styles": {
+                                        "display": "grid",
+                                        "grid-template-columns": "1fr",
+                                        "grid-template-rows": "1fr",
+                                        "justify-content": "space-around",
+                                        "gap": "var(--now-static-space--md)",
+                                        "padding": "var(--now-static-space--lg)",
+                                        "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                                        "background-color": "white"
+                                    }
+                                }
+                            },
+                            "type": {
+                                "group": "container",
+                                "name": "Generic",
+                                "id": "439e03fbeb611430d05213b347522802",
+                                "route": "generic"
+                            },
+                            "children": [{
+                                    "block_id": "80ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "80ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 4"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                },
+                                {
+                                    "block_id": "90ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "90ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 3"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }]
+            },
+            {
+                "block_id": "01ac9ad8ac3f10110fc869bc8a840dd20",
+                "id": "01ac9ad8ac3f10110fc869bc8a840dd20",
+                "parent_block_id": "",
+                "active": true,
+                "name": "1",
+                "label": "Section1",
+                "title": "Section1",
+                "subtitle": "Section subtitle1",
+                "order": "100",
+                "props_details": {
+                    "component_name": "sn-styleable-container",
+                    "component_properties": {
+                        "styles": {
+                            "display": "grid",
+                            "grid-template-columns": "1fr",
+                            "grid-template-rows": "1fr",                                                        
+                            "justify-content": "space-around",
+                            "gap": "var(--now-static-space--md)",
+                            "padding": "var(--now-static-space--lg)",
+                            "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                            "background-color": "#fafdff"
+                        }
+                    }
+                },
+                "type": {
+                    "group": "container",
+                    "name": "Generic",
+                    "id": "439e03fbeb611430d05213b347522802",
+                    "route": "generic"
+                },
+                "children": [{
+                    "block_id": "02ac9ad8ac3f10110fc869bc8a840dd20",
+                    "id": "02ac9ad8ac3f10110fc869bc8a840dd20",
+                    "parent_block_id": "",
+                    "active": true,
+                    "name": "2",
+                    "label": "Row1",
+                    "title": "Row1",
+                    "subtitle": "Section subtitle1",
+                    "order": "100",
+                    "props_details": {
+                        "component_name": "sn-styleable-container",
+                        "component_properties": {
+                            "styles": {
+                                "display": "grid",
+                                "grid-template-columns": "1fr 1fr",
+                                "grid-template-rows": "1fr",                                                                
+                                "justify-content": "space-around",
+                                "gap": "var(--now-static-space--md)",
+                                "padding": "var(--now-static-space--lg)",
+                                "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                                "background-color": "#f3f2f8"
+                            }
+                        }
+                    },
+                    "type": {
+                        "group": "container",
+                        "name": "Generic",
+                        "id": "439e03fbeb611430d05213b347522802",
+                        "route": "generic"
+                    },
+                    "children": [{
+                            "block_id": "03ac9ad8ac3f10110fc869bc8a840dd20",
+                            "id": "03ac9ad8ac3f10110fc869bc8a840dd20",
+                            "parent_block_id": "",
+                            "active": true,
+                            "name": "3",
+                            "label": "Column1",
+                            "title": "Column1",
+                            "subtitle": "Col subtitle1",
+                            "order": "100",
+                            "props_details": {
+                                "component_name": "sn-styleable-container",
+                                "component_properties": {
+                                    "styles": {
+                                        "display": "grid",
+                                        "grid-template-columns": "1fr",
+                                        "grid-template-rows": "1fr",
+                                        "justify-content": "space-around",
+                                        "gap": "var(--now-static-space--md)",
+                                        "padding": "var(--now-static-space--lg)",
+                                        "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                                        "background-color": "white"
+                                    }
+                                }
+                            },
+                            "type": {
+                                "group": "container",
+                                "name": "Generic",
+                                "id": "439e03fbeb611430d05213b347522802",
+                                "route": "generic"
+                            },
+                            "children": [{
+                                    "block_id": "04ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "04ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 4"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                },
+                                {
+                                    "block_id": "05ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "05ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 3"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "block_id": "06ac9ad8ac3f10110fc869bc8a840dd20",
+                            "id": "06ac9ad8ac3f10110fc869bc8a840dd20",
+                            "parent_block_id": "",
+                            "active": true,
+                            "name": "3",
+                            "label": "Column2",
+                            "title": "Column2",
+                            "subtitle": "Col subtitle2",
+                            "order": "100",
+                            "props_details": {
+                                "component_name": "sn-styleable-container",
+                                "component_properties": {
+                                    "styles": {
+                                        "display": "grid",
+                                        "grid-template-columns": "1fr",
+                                        "grid-template-rows": "1fr",
+                                        "justify-content": "space-around",
+                                        "gap": "var(--now-static-space--md)",
+                                        "padding": "var(--now-static-space--lg)",
+                                        "box-shadow": "rgba(99, 99, 99, 0.2) 0px 2px 8px 0px",
+                                        "background-color": "white"
+                                    }
+                                }
+                            },
+                            "type": {
+                                "group": "container",
+                                "name": "Generic",
+                                "id": "439e03fbeb611430d05213b347522802",
+                                "route": "generic"
+                            },
+                            "children": [{
+                                    "block_id": "07ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "07ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 4"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                },
+                                {
+                                    "block_id": "08ac9ad8ac3f10110fc8629bca840dd20",
+                                    "id": "08ac9ad8ac3f10110fc869b2c8a84dd20",
+                                    "parent_block_id": "",
+                                    "active": true,
+                                    "name": "4",
+                                    "label": "",
+                                    "title": "",
+                                    "subtitle": "",
+                                    "order": "100",
+                                    "props_details": {
+                                        "component_name": "now-input",
+                                        "component_properties": {
+                                            "label": "Input 3"
+                                        }
+                                    },
+                                    "type": {
+                                        "group": "container",
+                                        "name": "Generic",
+                                        "id": "439e03fbeb611430d05213b347522802",
+                                        "route": "generic"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }]
+            }
+        ]
+    }];
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-10-30 17:17:16&lt;/sys_created_on&gt;&lt;sys_id&gt;528107aa53725910c733ddeeff7b124f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;ace_form_builder_1/contentTree&lt;/sys_name&gt;&lt;sys_package display_value="Admin Experience Framework" source="sn_ace"&gt;5df6db91ebe4011090fa99602a52289e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Admin Experience Framework"&gt;5df6db91ebe4011090fa99602a52289e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_528107aa53725910c733ddeeff7b124f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-10-30 17:17:16&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload><payload_hash>-785556923</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>b0b82665474702103761bb30116d435e</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429e5cc500000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name>ace_form_builder_1/contentTree</target_name><type>UX Client Script</type><update_domain>global</update_domain><update_guid>5a810faa1972591045f045e1d8b283f0</update_guid><update_guid_history>5a810faa1972591045f045e1d8b283f0:-785556923,5e8107aa8672591004f5c88664847f51:-785556923</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_security_acl_role_b7a4b22253725910c733ddeeff7b122f</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:21:07</sys_created_on><sys_id>b7a4b22253725910c733ddeeff7b122f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>now.formbuilder.*.canvas_user</sys_name><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_security_acl display_value="now.formbuilder.*">bfa4b22253725910c733ddeeff7b122b</sys_security_acl><sys_update_name>sys_security_acl_role_b7a4b22253725910c733ddeeff7b122f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 16:21:07</sys_updated_on><sys_user_role display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload><payload_hash>-1712365850</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>b4b82665474702103761bb30116d435d</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429b262240000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table>now.formbuilder.*</table><target_name>now.formbuilder.*.canvas_user</target_name><type>Access Roles</type><update_domain>global</update_domain><update_guid>7fa4b2222d7259102bb0d9b872dd5531</update_guid><update_guid_history>7fa4b2222d7259102bb0d9b872dd5531:-1712365850</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_ux_screen_type_d239fae253725910c733ddeeff7b122e</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>home</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:40:57</sys_created_on><sys_id>d239fae253725910c733ddeeff7b122e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>home</sys_name><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_ux_screen_type_d239fae253725910c733ddeeff7b122e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 17:06:05</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=d239fae253725910c733ddeeff7b122e"/></record_update>]]></payload><payload_hash>1173474073</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>bcb82665474702103761bb30116d435e</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429db902f0000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name>home</target_name><type>UX Screen Collection</type><update_domain>global</update_domain><update_guid>aafeb22af3725910e9494930047d946d</update_guid><update_guid_history>aafeb22af3725910e9494930047d946d:1173474073,d6397226c572591096dddc83fba31629:694135981</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_security_acl_bfa4b22253725910c733ddeeff7b122b</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>now.formbuilder.*</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:21:06</sys_created_on><sys_id>bfa4b22253725910c733ddeeff7b122b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>now.formbuilder.*</sys_name><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_security_acl_bfa4b22253725910c733ddeeff7b122b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 16:21:06</sys_updated_on><type display_value="ux_route">b9eb8a1b873303002941b53046cb1234</type></sys_security_acl></record_update>]]></payload><payload_hash>1757823575</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>f0b82665474702103761bb30116d435d</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429b261b10000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table>now.formbuilder.*</table><target_name>now.formbuilder.*</target_name><type>Access Control</type><update_domain>global</update_domain><update_guid>f7a4b22268725910571ec0fa8b4d7d2e</update_guid><update_guid_history>f7a4b22268725910571ec0fa8b4d7d2e:1757823575</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_ux_screen_5e39722653725910c733ddeeff7b122c</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="form-builder">efa4b22253725910c733ddeeff7b1225</app_config><description/><event_mappings>[ ]</event_mappings><macroponent display_value="Test1">9639722653725910c733ddeeff7b122a</macroponent><macroponent_config>{
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "y"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config><name>Home Default</name><order>0</order><parent_macroponent display_value="ACE Unified Nav App Shell">7045b717532d411033cdddeeff7b1275</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="home">d239fae253725910c733ddeeff7b122e</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:40:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5e39722653725910c733ddeeff7b122c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Home Default</sys_name><sys_overrides/><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_ux_screen_5e39722653725910c733ddeeff7b122c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 17:07:18</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=5e39722653725910c733ddeeff7b122c"/></record_update>]]></payload><payload_hash>1759944310</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>f8b82665474702103761bb30116d435e</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429dcad240000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name>Home Default</target_name><type>UX Screen</type><update_domain>global</update_domain><update_guid>a44f326aea7259107a85834c5f8a0b38</update_guid><update_guid_history>a44f326aea7259107a85834c5f8a0b38:1759944310,0e49b226a47259105c338d9b3de02b11:225643722,5e3972265d72591047d9f8c9cdb9b92e:-62192261</update_guid_history><update_set/><view/></sys_update_xml><sys_update_xml action="INSERT_OR_UPDATE"><action>INSERT_OR_UPDATE</action><application display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</application><category>customer</category><comments/><name>sys_ux_app_route_2e39722653725910c733ddeeff7b1233</name><payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="form-builder">efa4b22253725910c733ddeeff7b1225</app_config><description/><extension_point/><fields/><icon/><name>home</name><optional_parameters/><order>0</order><parent_macroponent display_value="ACE Unified Nav App Shell">7045b717532d411033cdddeeff7b1275</parent_macroponent><parent_macroponent_composition_element_id/><route_type>home</route_type><screen_type display_value="home">d239fae253725910c733ddeeff7b122e</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-30 16:40:57</sys_created_on><sys_id>2e39722653725910c733ddeeff7b1233</sys_id><sys_mod_count>1</sys_mod_count><sys_name>home</sys_name><sys_package display_value="Admin Experience Framework" source="sn_ace">5df6db91ebe4011090fa99602a52289e</sys_package><sys_policy/><sys_scope display_value="Admin Experience Framework">5df6db91ebe4011090fa99602a52289e</sys_scope><sys_update_name>sys_ux_app_route_2e39722653725910c733ddeeff7b1233</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-30 17:06:06</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=2e39722653725910c733ddeeff7b1233"/></record_update>]]></payload><payload_hash>-860828207</payload_hash><remote_update_set display_value="">3cb82665474702103761bb30116d435c</remote_update_set><replace_on_upgrade>false</replace_on_upgrade><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-27 11:44:00</sys_created_on><sys_id>fcb82665474702103761bb30116d435d</sys_id><sys_mod_count>0</sys_mod_count><sys_recorded_at>18429db91850000001</sys_recorded_at><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-27 11:44:00</sys_updated_on><table/><target_name>home</target_name><type>UX App Route</type><update_domain>global</update_domain><update_guid>76feb22af9725910cb4bbceb4b355471</update_guid><update_guid_history>76feb22af9725910cb4bbceb4b355471:-860828207,e2397226f7725910331a0c8440b5e135:377203285</update_guid_history><update_set/><view/></sys_update_xml></unload>
